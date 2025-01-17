@@ -7,3 +7,5 @@
 - `pull request`: A proposal to merge changes from one branch into another, often used in collaborative workflows to review and discuss code before integration.
 - `git push`: Uploads committed changes from your local branch to its corresponding branch in the remote repository.
 - `git pull`: Fetches and integrates changes from the remote repository into your current branch.
+- `git add`: Stages changes to the specified file, preparing it for inclusion in the next commit.
+- `git commit`: Creates a commit with the staged changes and attaches a descriptive message to the commit.
